@@ -1,0 +1,24 @@
+{
+  "name": "@xuhengfeng/xhfcli",
+  "version": "1.2.0",
+  "description": "自定义快速搭建模板cli工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xhfcli": "./index.js"
+  },
+  "keywords": [
+    "xhfcli",
+    "cli"
+  ],
+  "author": "徐横峰 <564297479@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "git-clone-promise": "^1.0.0",
+    "shelljs": "^0.8.3",
+    "tracer": "^0.9.8"
+  }
+}
