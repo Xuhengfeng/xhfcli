@@ -11,3 +11,8 @@
 4. 运行`npm publish --access=public` 发布
     > 发布之前请先将自己的库更新到最新版本
 
+##### 安装使用
+
+1. 全局安装 `npm install @xuhengfeng/xhfcli -g`
+
+2. 构建项目 `xhfcli nuxtBlog myproject`

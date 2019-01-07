@@ -1,6 +1,6 @@
 {
   "name": "@xuhengfeng/xhfcli",
-  "version": "1.2.0",
+  "version": "1.6.7",
   "description": "自定义快速搭建模板cli工具",
   "main": "index.js",
   "scripts": {
